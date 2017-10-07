@@ -1,0 +1,2 @@
+# bridgetbradleyportfolio
+Portfolio Midterm Project
